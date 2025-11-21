@@ -3,8 +3,6 @@
 **Author:** Manish Nayak  
 **Roll No. :** CE22B069 
 
-**Date:** November 21, 2025
-
 ## 📌 Project Overview
 
 This repository contains the solution for the DA5401 Data Challenge. The objective is to predict a deterministic **'metric score' (0 to 10)** for a given prompt and response pair, based on a specific evaluation metric.
