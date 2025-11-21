@@ -110,12 +110,5 @@ final_df.to_csv('final_ensemble_submission.csv', index=False)
 
 ---
 
-## 📊 Results
-
-| Metric | Value |
-| :--- | :--- |
-| **Model 1 Validation RMSE** | 9.627 (Weighted) |
-| **Strategy** | Stratified Split (80/20) on binned scores |
-
 ## 📜 License
 This project is created for the DA5401 2025 Data Challenge.
