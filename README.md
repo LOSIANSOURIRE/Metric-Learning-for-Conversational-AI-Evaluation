@@ -1,4 +1,5 @@
-# DA5401 Data Challenge 2025: Metric Score Prediction
+# Metric Learning for Conversational AI Evaluation
+
 
 **Author:** Manish Nayak  
 **Roll No. :** CE22B069 
